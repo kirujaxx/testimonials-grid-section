@@ -32,7 +32,7 @@ Users should be able to:
 ### Links
 
 - **Solution URL:** [GitHub Repository](https://github.com/kirujaxx/testimonials-grid-section.git) 
-- **Live Site URL:** [GitHub Pages Live Demo](https://kirujaxx.github.io/QR_FLEX/) 
+- **Live Site URL:** [GitHub Pages Live Demo](https://kirujaxx.github.io/testimonials-grid-section/) 
 
 ---
 
