@@ -23,7 +23,7 @@
     --font: "Barlow Semi Condensed", sans-serif;
 }
 body {
-    background-color: var(--grey-light);
+    background-color: hsl(0, 0%, 96%);
     color: var(--black);
     font-family: var(--font);
 }
@@ -54,9 +54,9 @@ p {
     color: var(--white);
     display: flex;
     flex-direction: column;
-    border-radius: 12px;
+    border-radius: 10px;
     gap: 15px;
-    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.05);
+    box-shadow: 40px 50px 50px -27px rgba(200, 210, 225, 0.6);
 }
 .card__profile {
     display: flex;
