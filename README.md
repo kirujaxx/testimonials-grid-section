@@ -27,12 +27,12 @@ Users should be able to:
 
 ### Screenshot
 
-![Testimonials Grid Section Preview](./design/desktop-preview.jpg)
+![Testimonials Grid Section Preview](preview.jpg)
 
 ### Links
 
-- **Solution URL:** [GitHub Repository](https://github.com/kirujaxx/QR_FLEX) *(بدل هاد الرابط بالرابط ديال الـ Repo ديالك)*
-- **Live Site URL:** [GitHub Pages Live Demo](https://kirujaxx.github.io/QR_FLEX/) *(بدل هاد الرابط بالـ Live Demo ديالك)*
+- **Solution URL:** [GitHub Repository](https://github.com/kirujaxx/testimonials-grid-section.git) 
+- **Live Site URL:** [GitHub Pages Live Demo](https://kirujaxx.github.io/QR_FLEX/) 
 
 ---
 
